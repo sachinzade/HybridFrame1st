@@ -1,0 +1,5 @@
+2022-03-26 19:19:13,249  INFO [main] BaseClass:22 - reading properties file for browser name
+ 2022-03-26 19:19:13,253  INFO [main] BaseClass:24 -  browser found
+ 2022-03-26 19:19:15,513  INFO [main] BaseClass:30 - intialize the chromebrowser
+ 2022-03-26 19:19:17,435  INFO [main] BaseClass:45 - url found
+ 
